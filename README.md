@@ -2,7 +2,7 @@
 
 ## About me 👈🏻
 
-I'm currently studying a vocational course of **Web Application Development** in **RCP Liceo La Paz (A Coruña, Galicia), now in the second (and last) year. You could find some of the main exercises and code I've generated for this course, in order to help me in my fascinating learning journey and show the improvements I've made.
+I'm currently studying a vocational course of **Web Application Development** in **RCP Liceo La Paz (A Coruña, Galicia)**, now in the second (and last) year. You could find some of the main exercises and code I've generated for this course, in order to help me in my fascinating learning journey and show the improvements I've made.
 
 My favourite part about learning to code is to unlock the skills to create and develop a tool or a website from scratch in order to help people with their daily problems and make their lives easier. That's why I like to learn everything that could be useful!
 
@@ -23,7 +23,6 @@ Now, talking about other areas of my life, I'm also a videogames, films and book
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -76,6 +75,13 @@ Here is a list of the (public) projects I'm working on by now:
   <a href="https://github.com/NaXeMate/Eloquent-JavaScript-Exercises">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaXeMate&repo=Eloquent-JavaScript-Exercises&theme=radical&cache_seconds=0" height="130"/>
   </a>
+  <a href="https://github.com/NaXeMate/SpringBoot-Metroid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaXeMate&repo=SpringBoot-Metroid&theme=radical&cache_seconds=0" height="130"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/NaXeMate/P3-Bootstrap-Accesibilidad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaXeMate&repo=P3-Bootstrap-Accesibilidad&theme=radical&cache_seconds=0" height="130"/>
+  </a>
 </div>
 
 ## GitHub Stats 📊
@@ -96,7 +102,16 @@ Maybe you want to help me out with one of my projects or you may have seen an is
   <img src="./assets/xana-eye-white.png#gh-dark-mode-only" alt="XANA Eye" width="auto" height="40"/>
   <img src="./assets/xana-eye-black.svg#gh-light-mode-only" alt="XANA Eye" width="auto" height="40"/>
   &nbsp;&nbsp;
-  <i><strong>"Always looking for Sector 5 (Carthage) data with more than meets the eye"</strong></i>
+  <i><strong>"Always looking for Sector 5 (Carthage) data...</strong></i>
+  <img src="./assets/xana-eye-white.png#gh-dark-mode-only" alt="XANA Eye" width="auto" height="40"/>
+  <img src="./assets/xana-eye-black.svg#gh-light-mode-only" alt="XANA Eye" width="auto" height="40"/>  
+</p>
+
+<p align="center">
+  <img src="./assets/autobots-white.png#gh-dark-mode-only" alt="Autobots Shield" width="auto" height="40"/>
+  <img src="./assets/autobots-black.png#gh-light-mode-only" alt="Autobots Shield" width="auto" height="40"/>
+  &nbsp;&nbsp;
+  <i><strong>...with more than meets the eye</strong></i>
   &nbsp;&nbsp;
   <img src="./assets/autobots-white.png#gh-dark-mode-only" alt="Autobots Shield" width="auto" height="40"/>
   <img src="./assets/autobots-black.png#gh-light-mode-only" alt="Autobots Shield" width="auto" height="40"/>
