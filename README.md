@@ -103,6 +103,7 @@ Maybe you want to help me out with one of my projects or you may have seen an is
   <img src="./assets/xana-eye-black.svg#gh-light-mode-only" alt="XANA Eye" width="auto" height="40"/>
   &nbsp;&nbsp;
   <i><strong>"Always looking for Sector 5 (Carthage) data...</strong></i>
+  &nbsp;&nbsp;
   <img src="./assets/xana-eye-white.png#gh-dark-mode-only" alt="XANA Eye" width="auto" height="40"/>
   <img src="./assets/xana-eye-black.svg#gh-light-mode-only" alt="XANA Eye" width="auto" height="40"/>  
 </p>
