@@ -2,7 +2,7 @@
 
 ## About me 👈🏻
 
-I'm currently studying a vocational course of **Web Application Development** in **RCP Liceo La Paz (A Coruña, Galicia)**, now in the second (and last) year. You could find some of the main exercises and code I've generated for this course, in order to help me in my fascinating learning journey and show the improvements I've made.
+I'm currently studying a vocational course of **Web Application Development** in **CPR Liceo La Paz (A Coruña, Galicia)**, now in the second (and last) year. You could find some of the main exercises and code I've generated for this course, in order to help me in my fascinating learning journey and show the improvements I've made.
 
 My favourite part about learning to code is to unlock the skills to create and develop a tool or a website from scratch in order to help people with their daily problems and make their lives easier. That's why I like to learn everything that could be useful!
 
@@ -34,6 +34,7 @@ Now, talking about other areas of my life, I'm also a videogames, films and book
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
@@ -63,32 +64,11 @@ Now, talking about other areas of my life, I'm also a videogames, films and book
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-## WIP ✏️
-
-Here is a list of the (public) projects I'm working on by now:
-
-<div align="center">
-  <a href="https://github.com/NaXeMate/Light-Game-JavaScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaXeMate&repo=Light-Game-JavaScript&theme=radical" height="130"/>
-    </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NaXeMate/Eloquent-JavaScript-Exercises">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaXeMate&repo=Eloquent-JavaScript-Exercises&theme=radical&cache_seconds=0" height="130"/>
-  </a>
-  <a href="https://github.com/NaXeMate/SpringBoot-Metroid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaXeMate&repo=SpringBoot-Metroid&theme=radical&cache_seconds=0" height="130"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NaXeMate/P3-Bootstrap-Accesibilidad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaXeMate&repo=P3-Bootstrap-Accesibilidad&theme=radical&cache_seconds=0" height="130"/>
-  </a>
-</div>
-
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaXeMate&show_icons=true&theme=radical" height="180"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaXeMate&layout=compact&theme=radical" height="180"/>&nbsp;&nbsp;
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NaXeMate&show_icons=true&theme=radical" height="180"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaXeMate&layout=compact&theme=radical" height="180"/>&nbsp;&nbsp; -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaXeMate&theme=radical" height="180"/>
 </div>
 
