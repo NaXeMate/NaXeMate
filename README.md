@@ -67,8 +67,10 @@ Now, talking about other areas of my life, I'm also a videogames, films and book
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaXeMate&show_icons=true&theme=radical" height="180"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaXeMate&layout=compact&theme=radical" height="180"/>&nbsp;&nbsp;
+
+![](https://github-readme-stats.vercel.app/api?username=NaXeMate&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NaXeMate&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaXeMate&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)&nbsp;&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaXeMate&theme=radical" height="180"/>
 </div>
 
