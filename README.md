@@ -72,16 +72,10 @@ Now, talking about other areas of my life, I'm also a videogames, films and book
 ![](https://nirzak-streak-stats.vercel.app/?user=NaXeMate&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaXeMate&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)&nbsp;&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaXeMate&theme=radical" height="180"/>
-</div>
-
-## Contact 📫
-
-### Language Stats 📊
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/NaXeMate/stack-stats/main/stats.svg" alt="Language Stats" />
 </div>
 
+## Contact 📫
 
 Maybe you want to help me out with one of my projects or you may have seen an issue in one of my past repositories. Feel free to contact me (only if you plan to be respectful and constructive)!
 
