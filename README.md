@@ -76,6 +76,13 @@ Now, talking about other areas of my life, I'm also a videogames, films and book
 
 ## Contact 📫
 
+### Language Stats 📊
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NaXeMate/stack-stats/main/stats.svg" alt="Language Stats" />
+</div>
+
+
 Maybe you want to help me out with one of my projects or you may have seen an issue in one of my past repositories. Feel free to contact me (only if you plan to be respectful and constructive)!
 
 ---
